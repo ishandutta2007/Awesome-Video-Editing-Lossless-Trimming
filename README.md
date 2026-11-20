@@ -69,7 +69,7 @@ The table below lists leading commercial SaaS video editors and trimming utiliti
 
 ## 💻 Open-Source GitHub Projects
 
-A comprehensive collection of open-source video editing engines, lossless stream-copy trimmers, smart-cut encoders, and automated silence cutters. Sorted by **GitHub Star Count** (descending).
+A comprehensive collection of open-source video editing engines, lossless stream-copy trimmers, smart-cut encoders, and automated silence cutters. Sorted by **GitHub Stars_Count** (descending).
 
 | Repository & Stargazers | Primary Focus | Language / Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
@@ -121,7 +121,7 @@ Contributions from creators, developers, and maintainers are always welcome!
 2. **Create a topic branch** (`git checkout -b feature/add-new-trimmer`).
 3. **Add the tool** with verified specifications:
    - For SaaS: Include precise starting plan pricing, free tier/trial boundaries, and company valuation/revenue metrics.
-   - For Open Source: Provide the exact GitHub repository link, star count badge, tech stack, and primary capabilities.
+   - For Open Source: Provide the exact GitHub repository link, Stars_Count badge, tech stack, and primary capabilities.
 4. **Commit your changes** (`git commit -m "Add NewVideoTrimmer to open-source directory"`).
 5. **Open a Pull Request** explaining the additions.
 
